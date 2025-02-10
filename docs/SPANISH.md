@@ -7,7 +7,7 @@
 #### **Ejemplo Introducción Escena (Video):**
 
 <video width="70%" controls>
-  <source src="audios/Intro_Animated.mp4" type="video/mp4">
+  <source src="https://josemaestreb.github.io/coffee_uniminuto/docs/audios/Intro_Animated.mp4" type="video/mp4">
   Tu navegador no soporta el formato de video.
 </video>
 

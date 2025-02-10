@@ -3,7 +3,7 @@
 **Introduction:** Hi! I’m Lorena Diaz, a Business Administration student at UNIMINUTO. Today, we’ll have a fun chat to get to know each other better. With me are Deisy, Nataly, and Yeni. Let’s start!
 
 <audio controls>
-  <source src="audios/Intro.m4a" type="audio/mp4">
+  <source src="https://josemaestreb.github.io/coffee_uniminuto/docs/audios/Intro.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
 
@@ -12,7 +12,7 @@
 #### **Ejemplo Introducción Escena (Video):**
 
 <video width="70%" controls>
-  <source src="audios/Intro_Animated.mp4" type="video/mp4">
+  <source src="https://josemaestreb.github.io/coffee_uniminuto/docs/audios/Intro_Animated.mp4" type="video/mp4">
   Tu navegador no soporta el formato de video.
 </video>
 
@@ -20,7 +20,7 @@
 Hey, girls! Since we’re all in the same program, I thought we should break the ice. I’m Lorena Díaz, from Barranquilla. I live near campus with my cousin. What about you?
 
 <audio controls>
-  <source src="audios/001.m4a" type="audio/mp4">
+  <source src="https://josemaestreb.github.io/coffee_uniminuto/docs/audios/001.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
 
@@ -28,7 +28,7 @@ Hey, girls! Since we’re all in the same program, I thought we should break the
 Nice to meet you, Lorena! I’m Deisy Mendoza, from Medellín. I live in an apartment with my best friend. What about you, Nataly?
 
 <audio controls>
-  <source src="audios/002.m4a" type="audio/mp4">
+  <source src="https://josemaestreb.github.io/coffee_uniminuto/docs/audios/002.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
 
@@ -36,7 +36,7 @@ Nice to meet you, Lorena! I’m Deisy Mendoza, from Medellín. I live in an apar
 Hey, Deisy! I’m Nataly, from Bucaramanga. I live with my aunt here in Bogotá. I ran into Lorena the other day at the library, but I haven’t met Yeni yet.
 
 <audio controls>
-  <source src="audios/003.m4a" type="audio/mp4">
+  <source src="https://josemaestreb.github.io/coffee_uniminuto/docs/audios/003.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
 
@@ -44,7 +44,7 @@ Hey, Deisy! I’m Nataly, from Bucaramanga. I live with my aunt here in Bogotá.
 Oh, really? That’s funny! I’m Yeni Arteaga, from Cali. I came across this coffee shop last week, and I love it! By the way, what made you all take up Business Administration?
 
 <audio controls>
-  <source src="audios/004.m4a" type="audio/mp4">
+  <source src="https://josemaestreb.github.io/coffee_uniminuto/docs/audios/004.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
 
@@ -52,7 +52,7 @@ Oh, really? That’s funny! I’m Yeni Arteaga, from Cali. I came across this co
 Great question! I always wanted to work on my leadership skills. Plus, I love organizing things. How about you, Deisy?
 
 <audio controls>
-  <source src="audios/005.m4a" type="audio/mp4">
+  <source src="https://josemaestreb.github.io/coffee_uniminuto/docs/audios/005.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
 
@@ -60,7 +60,7 @@ Great question! I always wanted to work on my leadership skills. Plus, I love or
 I took it up because my dad runs a small company, and I want to help him expand it. Also, I found out that this program has great opportunities. What about you, Nataly?
 
 <audio controls>
-  <source src="audios/006.m4a" type="audio/mp4">
+  <source src="https://josemaestreb.github.io/coffee_uniminuto/docs/audios/006.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
 
@@ -68,7 +68,7 @@ I took it up because my dad runs a small company, and I want to help him expand 
 For me, it’s (its) all (ol) about (abaut) problem-solving. I enjoy (enyoi) working on challenges (chalenyes) and coming (comin) up (op) with (wid) solutions. Yeni, what made you choose it (chusit)?
 
 <audio controls>
-  <source src="audios/007.m4a" type="audio/mp4">
+  <source src="https://josemaestreb.github.io/coffee_uniminuto/docs/audios/007.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
 
@@ -76,7 +76,7 @@ For me, it’s (its) all (ol) about (abaut) problem-solving. I enjoy (enyoi) wor
 Honestly, I was thinking of marketing, but then I opened up to the idea of managing my own business one day. I figured this was the right choice.
 
 <audio controls>
-  <source src="audios/008.m4a" type="audio/mp4">
+  <source src="https://josemaestreb.github.io/coffee_uniminuto/docs/audios/008.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
 
@@ -84,7 +84,7 @@ Honestly, I was thinking of marketing, but then I opened up to the idea of manag
 That’s amazing! Now, let’s bring up something important. If we had to choose a leader among us, what qualities should she have?
 
 <audio controls>
-  <source src="audios/009.m4a" type="audio/mp4">
+  <source src="https://josemaestreb.github.io/coffee_uniminuto/docs/audios/009.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
 
@@ -92,7 +92,7 @@ That’s amazing! Now, let’s bring up something important. If we had to choose
 Well, she should be confident but also a good listener. You can’t lead without understanding people.
 
 <audio controls>
-  <source src="audios/010.m4a" type="audio/mp4">
+  <source src="https://josemaestreb.github.io/coffee_uniminuto/docs/audios/010.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
 
@@ -100,7 +100,7 @@ Well, she should be confident but also a good listener. You can’t lead without
 Exactly! And she should be able to catch up with new ideas quickly. The world changes fast!
 
 <audio controls>
-  <source src="audios/011.m4a" type="audio/mp4">
+  <source src="https://josemaestreb.github.io/coffee_uniminuto/docs/audios/011.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
 
@@ -108,7 +108,7 @@ Exactly! And she should be able to catch up with new ideas quickly. The world ch
 I totally agree. A great leader must also be creative and come across as inspiring.
 
 <audio controls>
-  <source src="audios/012.m4a" type="audio/mp4">
+  <source src="https://josemaestreb.github.io/coffee_uniminuto/docs/audios/012.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
 
@@ -116,7 +116,7 @@ I totally agree. A great leader must also be creative and come across as inspiri
 So, should we vote for someone now or keep working on getting to know each other first?
 
 <audio controls>
-  <source src="audios/013.m4a" type="audio/mp4">
+  <source src="https://josemaestreb.github.io/coffee_uniminuto/docs/audios/013.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
 
@@ -124,7 +124,7 @@ So, should we vote for someone now or keep working on getting to know each other
 Let’s catch up a bit more before deciding. For now, let’s talk about our favorite activities. Any hobbies?
 
 <audio controls>
-  <source src="audios/014.m4a" type="audio/mp4">
+  <source src="https://josemaestreb.github.io/coffee_uniminuto/docs/audios/014.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
 
@@ -132,7 +132,7 @@ Let’s catch up a bit more before deciding. For now, let’s talk about our fav
 I love painting! It helps me open up and express myself.
 
 <audio controls>
-  <source src="audios/015.m4a" type="audio/mp4">
+  <source src="https://josemaestreb.github.io/coffee_uniminuto/docs/audios/015.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
 
@@ -140,7 +140,7 @@ I love painting! It helps me open up and express myself.
 That’s cool! I enjoy dancing—it’s my way of relaxing.
 
 <audio controls>
-  <source src="audios/016.m4a" type="audio/mp4">
+  <source src="https://josemaestreb.github.io/coffee_uniminuto/docs/audios/016.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
 
@@ -148,7 +148,7 @@ That’s cool! I enjoy dancing—it’s my way of relaxing.
 I take up hiking whenever I can. It’s a great way to clear my mind.
 
 <audio controls>
-  <source src="audios/017.m4a" type="audio/mp4">
+  <source src="https://josemaestreb.github.io/coffee_uniminuto/docs/audios/017.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
 
@@ -156,7 +156,7 @@ I take up hiking whenever I can. It’s a great way to clear my mind.
 Nice! I guess we all have different ways of working on ourselves. Let’s meet again and talk about more things!
 
 <audio controls>
-  <source src="audios/018.m4a" type="audio/mp4">
+  <source src="https://josemaestreb.github.io/coffee_uniminuto/docs/audios/018.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
 
@@ -164,6 +164,6 @@ Nice! I guess we all have different ways of working on ourselves. Let’s meet a
 Sounds great!
 
 <audio controls>
-  <source src="audios/019.m4a" type="audio/mp4">
+  <source src="https://josemaestreb.github.io/coffee_uniminuto/docs/audios/019.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>

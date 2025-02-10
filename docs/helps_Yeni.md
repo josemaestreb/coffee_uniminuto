@@ -9,7 +9,7 @@ Oh, really? (ou, rili?) That’s funny! (dats foni!) I’m (aim) Yeni Arteaga, f
 By (bai) the (de) way (wey), what made (guat meid) you (iu) all (ol) take up (teikop) Business (bisnes) Administration (administreichon)?
 
 <audio controls>
-  <source src="audios/004.m4a" type="audio/mp4">
+  <source src="https://josemaestreb.github.io/coffee_uniminuto/docs/audios/004.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
 
@@ -17,7 +17,7 @@ By (bai) the (de) way (wey), what made (guat meid) you (iu) all (ol) take up (te
 Honestly (onestli), I was (ai guos) thinking (tinkin) of marketing (márkerin), but then (bot den) I opened up (ai oupen op) to (tu) the idea (di aidia) of managing (of manayin) my own business (mai oun bisnes) one day (uan dei). I figured (figierd) this was (dis guos) the right choice (de rait chois).
 
 <audio controls>
-  <source src="audios/008.m4a" type="audio/mp4">
+  <source src="https://josemaestreb.github.io/coffee_uniminuto/docs/audios/008.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
 
@@ -25,7 +25,7 @@ Honestly (onestli), I was (ai guos) thinking (tinkin) of marketing (márkerin), 
 I totally agree (ai torali agri). A great leader (a greit lirer) must also (most olso) be creative (bi crieirif) and come across (en com acros) as inspiring (as inspairin).
 
 <audio controls>
-  <source src="audios/012.m4a" type="audio/mp4">
+  <source src="https://josemaestreb.github.io/coffee_uniminuto/docs/audios/012.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
 
@@ -33,6 +33,6 @@ I totally agree (ai torali agri). A great leader (a greit lirer) must also (most
 That’s cool! (dats cul!) I enjoy (ai enyoi) dancing (dencin). It’s my way (its mai wei) of relaxing (of rilaxin).
 
 <audio controls>
-  <source src="audios/016.m4a" type="audio/mp4">
+  <source src="https://josemaestreb.github.io/coffee_uniminuto/docs/audios/016.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
