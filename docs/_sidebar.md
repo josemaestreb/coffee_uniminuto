@@ -1,0 +1,4 @@
+- [1.1 Versión Inglés](README.md)
+- [1.2 Versión Español](SPANISH.md)
+- [1.3 Ayudas Nataly](helps_Nataly.md)
+- [1.4 Ayudas Yeni](helps_Yeni.md)
